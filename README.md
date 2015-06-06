@@ -23,8 +23,7 @@
 
 「伝統や歴史を身近に感じることができる」
 
-最も評価の高かったアイデア
-image/hige_wo_nuku.jpg
+[最も評価の高かったアイデア](image/hige_wo_nuku.jpg)
 
 [説明イラスト](image/hige_wo_nuku_detail.jpg)
 
