@@ -126,7 +126,7 @@ SPAJAM岐阜でのお題
 
 ## タイトル
 
-良いタイトルは、それだけで良いと評価される（[具体例](image/kuro_rekishi.jpg)）
+良いタイトルは、それだけで良いと評価される（ [具体例](image/kuro_rekishi.jpg) ）
 
 ## 概要
 
